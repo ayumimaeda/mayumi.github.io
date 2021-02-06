@@ -122,7 +122,7 @@ header{
         line-height: 40px;
         padding-left: 50px;
 
-        background-image: url("../images6/top/navi_top.png");
+        background-image: url("../top/navi_top.png");
         background-size: 40px 40px;
 
       }
@@ -135,7 +135,7 @@ header{
         line-height: 40px;
         padding-left: 50px;
 
-        background-image: url("../images6/top/navi_news.png");
+        background-image: url("../top/navi_news.png");
         background-size: 40px 40px;
 
       }
@@ -148,7 +148,7 @@ header{
         line-height: 40px;
         padding-left: 50px;
 
-        background-image: url("../images6/top/navi_company.png");
+        background-image: url("../top/navi_company.png");
         background-size: 40px 40px;
 
       }
@@ -173,7 +173,7 @@ header{
   text-align: center;
   padding:80px 0;
 
-  background-image: url("../images6/top/cover.jpg");
+  background-image: url("../top/cover.jpg");
   background-size: cover;
 
   @media (min-width: 550px) {
@@ -436,7 +436,7 @@ h1{
 
 #sub_cover {
   padding: 40px 0;
-  background-image: url("../images6/news/sub_cover.jpg");
+  background-image: url("../news/sub_cover.jpg");
   background-size: cover
 }
 
@@ -553,7 +553,7 @@ h1{
   background-position: 8px center;
   margin-bottom: 0px;
   padding: 10px 10px 10px 20px;
-  background-image: url("../images6/news/side_arrow.png");
+  background-image: url("../news/side_arrow.png");
   background-size: 4px 8px
 }
 
